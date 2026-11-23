@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "pr6_Styles/1.0.0": {
+        "runtime": {
+          "pr6_Styles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pr6_Styles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
